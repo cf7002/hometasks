@@ -1,0 +1,3 @@
+<?php
+
+$year = date('Y');
